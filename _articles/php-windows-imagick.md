@@ -21,7 +21,7 @@ To do this: open a command prompt and enter these commands:
 Once you determined the above parameters, you have to download the dll of the PHP extension and the ImageMagick archive using the following table:
 
 {: .table .table-condensed .table-hover }
-| Version | Thread Safe | # of bits | Estension | ImageMagick |
+| Version | Thread Safe | # of bits | Extension | ImageMagick |
 |---------|-------------|-----------|-----------|-------------|
 | 5.5 | Yes | 32 | [php_imagick-3.4.3-5.5-ts-vc11-x86.zip](http://windows.php.net/downloads/pecl/releases/imagick/3.4.3/php_imagick-3.4.3-5.5-ts-vc11-x86.zip) | [ImageMagick-6.9.3-7-vc11-x86.zip](http://windows.php.net/downloads/pecl/deps/ImageMagick-6.9.3-7-vc11-x86.zip) |
 | 5.5 | Yes | 64 | [php_imagick-3.4.3-5.5-ts-vc11-x64.zip](http://windows.php.net/downloads/pecl/releases/imagick/3.4.3/php_imagick-3.4.3-5.5-ts-vc11-x64.zip) | [ImageMagick-6.9.3-7-vc11-x64.zip](http://windows.php.net/downloads/pecl/deps/ImageMagick-6.9.3-7-vc11-x64.zip) |
